@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\bin\Debug\PetStoreExel.exe.config
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\bin\Debug\PetStoreExel.exe
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\bin\Debug\PetStoreExel.pdb
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\bin\Debug\WebDriver.dll
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\bin\Debug\WebDriver.xml
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\obj\Debug\PetStoreExel.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\obj\Debug\PetStoreExel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\obj\Debug\PetStoreExel.csproj.CopyComplete
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\obj\Debug\PetStoreExel.exe
+C:\Users\DELL\source\repos\PetStoreExel\PetStoreExel\obj\Debug\PetStoreExel.pdb
